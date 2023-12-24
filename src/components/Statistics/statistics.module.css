@@ -1,0 +1,27 @@
+.statistics{
+  width: 500px;
+  border: 1px solid grey;
+  margin-left: 40px;
+}
+
+.title{
+color: grey;
+font-size: 24px;
+font-weight: 700;
+text-align: center;
+margin: 20px auto;
+}
+
+.statList{
+display: flex;
+font-size: 20px;
+font-weight: 500;
+color: white;
+width: 100%;
+}
+
+.item{
+  flex-grow: 1;
+  padding: 15px;
+  text-align: center;
+}
